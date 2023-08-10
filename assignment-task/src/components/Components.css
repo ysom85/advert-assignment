@@ -1,0 +1,21 @@
+ 
+.Title{
+  height: 100;
+  width: 50;
+}
+ .Title{
+  height: 10;
+  width: 100%;
+  background-color: black;
+  display: flex;
+ }
+ .Main{
+  margin-bottom: 250px;
+ }
+ .NavBar{
+  margin-top: 100px;
+  /* text-align: left; */
+  background-color: black;
+  height: 50px;
+  width: 100%;
+ }
