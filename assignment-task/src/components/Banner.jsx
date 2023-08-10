@@ -7,7 +7,7 @@ const Image = styled('img')({
     height: 280,
     marginBottom: 20
 });
-
+    
  
 const responsive = {
     superLargeDesktop: { 
